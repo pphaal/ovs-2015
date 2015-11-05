@@ -1,0 +1,44 @@
+<svg width="100%" height="100%" viewBox="0 0 400 560" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g stroke="null">
+  <title>Layer 1</title>
+  <rect stroke="#000000" fill-opacity="0" height="104.00001" width="342.22227" y="21.99999" x="31.99998" stroke-linecap="round" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#000000" id="svg_11"/>
+  <circle stroke="#000000" fill="#cccccc" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="111.34375" cy="345.23835" r="14.4222" id="l1"/>
+  <circle stroke="#000000" fill="#cccccc" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="110.34375" cy="458.73835" r="14.4222" id="s1"/>
+  <circle stroke="#000000" fill="#cccccc" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="288.84375" cy="348.23835" r="14.4222" id="l2"/>
+  <circle stroke="#000000" fill="#cccccc" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="290.84375" cy="458.23835" r="14.4222" id="s2"/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="110.34375" y1="372.77917" x2="110.34375" y2="435.337" id="leaf1-spine1"/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="130.75871" y1="443.83699" x2="266.28934" y2="361.81998" id="leaf2-spine1"/>
+  <text stroke="#000000" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="49.34375" y="466.07168" id="svg_29" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve">spine1</text>
+  <line stroke="#b2b2b2" id="leaf1-spine2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="132.75871" y1="361.83699" x2="264.28933" y2="444.81997"/>
+  <line stroke="#b2b2b2" id="leaf2-spine2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="288.34375" y1="371.77917" x2="288.34375" y2="431.337"/>
+  <text stroke="#000000" id="svg_3" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="53.34375" y="353.07168" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve">leaf1</text>
+  <text stroke="#000000" id="svg_4" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="348.34375" y="355.07168" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve">leaf2</text>
+  <text stroke="#000000" id="svg_5" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="355.34375" y="465.07168" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve">spine2</text>
+  <rect stroke="#000000" fill-opacity="0" id="svg_6" height="130.00001" width="157" y="144.99999" x="32" stroke-linecap="round" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#000000"/>
+  <rect stroke="#000000" id="svg_7" fill-opacity="0" height="130.00001" width="160" y="146.99999" x="213.00001" stroke-linecap="round" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#000000"/>
+  <circle stroke="#000000" id="ovs1" fill="#cccccc" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="110.34375" cy="242.23835" r="14.4222"/>
+  <line stroke="#b2b2b2" id="leaf1-server1" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="110.34375" y1="268.77917" x2="110.34375" y2="320.337"/>
+  <circle stroke="#000000" id="ovs2" fill="#cccccc" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="289.34375" cy="242.23835" r="14.4222"/>
+  <line stroke="#b2b2b2" id="leaf2-server2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="290.34375" y1="270.77917" x2="290.34375" y2="322.337"/>
+  <circle stroke="#000000" id="container1" fill="#bfbfbf" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="64.34375" cy="177.23835" r="14.4222"/>
+  <circle stroke="#000000" id="container2" fill="#bfbfbf" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="157.34375" cy="177.23835" r="14.4222"/>
+  <circle stroke="#000000" id="container3" fill="#bfbfbf" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="240.34375" cy="178.23835" r="14.4222"/>
+  <circle stroke="#000000" id="container4" fill="#bfbfbf" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="341.34375" cy="177.23835" r="14.4222"/>
+  <text stroke="#000000" id="svg_18" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="63.67708" y="251.73835" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve">OVS</text>
+  <text stroke="#000000" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="336.67708" y="249.73835" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve" id="svg_19">OVS</text>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="86.73134" y1="194.45947" x2="86.73134" y2="225.51537" id="ovs1-container1" transform="rotate(-39.08344268798828 86.73133850097645,209.98742675781247) "/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="263.73134" y1="195.45947" x2="263.73134" y2="226.51537" transform="rotate(-39.08344268798828 263.7313537597656,210.9874267578125) " id="ovs2-container3"/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="315.73134" y1="194.45947" x2="315.73134" y2="225.51537" transform="rotate(38.74061965942383 315.7313537597656,209.9874267578125) " id="ovs2-container4"/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" x1="132.73134" y1="194.45947" x2="132.73134" y2="225.51537" transform="rotate(35.837615966796875 132.73133850097653,209.9874267578125) " id="ovs1-container2"/>
+  <circle stroke="#000000" id="ls2" fill="#cccccc" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="290.84375" cy="88.23835" r="14.4222"/>
+  <text stroke="#000000" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="290.67708" y="60.73835" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve" id="svg_2">sw0</text>
+  <text stroke="#000000" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="113.67708" y="61.73835" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve" id="svg_8">sw1</text>
+  <circle stroke="#000000" fill="#cccccc" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" cx="112.84375" cy="87.23835" r="14.4222" id="ls1"/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="10,10" stroke-linejoin="null" stroke-linecap="round" x1="87.8639" y1="108.08179" x2="87.8639" y2="155.62594" transform="rotate(30.084264755249023 87.86389923095714,131.8538665771484) " id="ls1-container1"/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="10,10" stroke-linejoin="null" stroke-linecap="round" x1="222.39263" y1="78.0038" x2="222.39263" y2="186.17481" transform="rotate(56.299049377441406 222.3926239013673,132.08929443359372) " id="ls2-container2"/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="10,10" stroke-linejoin="null" stroke-linecap="round" x1="176.65588" y1="81.92327" x2="176.65588" y2="185.89433" transform="rotate(-55.79523468017578 176.6558837890625,133.90879821777344) " id="ls1-container3"/>
+  <line stroke="#b2b2b2" fill="none" stroke-width="5" stroke-dasharray="10,10" stroke-linejoin="null" stroke-linecap="round" x1="318.29109" y1="106.01059" x2="318.29109" y2="155.78436" transform="rotate(-30.918249130249023 318.29107666015625,130.89747619628906) " id="ls2-container4"/>
+  <text id="svg_1" stroke="#000000" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="207.67708" y="48.73835" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve">OVN</text>
+ </g>
+</svg>

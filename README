@@ -1,0 +1,18 @@
+Open vSwitch 2015 Fall Conference demo
+
+Demo based on the following article:
+http://blog.sflow.com/2015/09/open-virtual-network-ovn.html
+
+This code is based on the following examples:
+https://github.com/sflow-rt/svg-weather
+https://github.com/sflow-rt/dashboard-example
+
+Copy files to the sFlow-RT app directory.
+
+Set the following property:
+-Dsflow.file=app/ovs-2015/demo.pcap
+
+Restart sFlow-RT to run the demonstration.
+
+For more information, visit:
+http://www.sFlow-RT.com
